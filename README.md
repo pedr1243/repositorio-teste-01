@@ -2,6 +2,6 @@
 
 REPOSITORIO-TESTE
 
-## Este repositorio estou fazendo para treinar o bom uso do meu GITHUB
+## Este repositorio estou fazendo para treinar o bom uso do meu GITHUB 🫣
 
 **ESTOU EXPLORANDO A PLATAFORMA**
